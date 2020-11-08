@@ -3,9 +3,9 @@ bdReportGenerator is a report generator to extract bulk reports from Black Duck.
 
 
 # ADVANTAGES
-* extracting reports with korean template
-* saving your time. you don't need to write reports
-* recommending the latest vulnerabilities matched to the version of open source identified
+* Extracting reports with korean template
+* Saving your time. you don't need to write reports
+* Recommending the latest vulnerabilities matched to the version of open source identified
 
 # LICENSE
 GNU Affero General Public License version 3

@@ -1,5 +1,5 @@
 # OVERVIEW
-bdReportGenerator is a report generator to extract bulk reports from Black Duck. you can enjoy creating bulk reports with Korean template.
+bdReportGenerator is a report generator to extract bulk reports from Black Duck automatically. You can enjoy creating bulk reports with Korean template without your extra work.
 
 
 # ADVANTAGES
